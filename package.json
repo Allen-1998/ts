@@ -1,0 +1,23 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Allen-1998/ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Allen-1998/ts/issues"
+  },
+  "homepage": "https://github.com/Allen-1998/ts#readme",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
